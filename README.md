@@ -37,7 +37,7 @@ To run the Jupyter Notebooks and models, install the following dependencies:
 pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 ```
 
-🚀 Usage Instructions
+## 🚀 Usage Instructions
 1️⃣ Load the Data
 
 Start by exploring the raw Iris dataset or the cleaned version using EDA.ipynb.
