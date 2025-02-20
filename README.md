@@ -55,5 +55,5 @@ Analyze accuracy scores, confusion matrices, and classification reports to deter
 ✅ Objective: Identify the best ML model for Iris flower classification
 ✅ Techniques Used: EDA, Data Preprocessing, KNN, SVM, Random Forest, Neural Networks, Boosting Algorithms
 
-📜 License & Acknowledgments
-Developed by Sambit Sahoo, Kirti Agrawal, and Nirman Jaiswal under the supervision of Prof. Samiran Das as part of the DSE315 Data Science in Practice course project.
+## 📜 License & Acknowledgments
+Developed by Nirman Jaiswal, Sambit Sahoo, and Kirti Agrawal under the supervision of Prof. Samiran Das as part of the DSE315 Data Science in Practice course project.
